@@ -25,7 +25,7 @@ I enjoy solving complex coding challenges and optimizing system performance to s
 ---
 
 ### 📌 Featured Repositories  
-🌟 [E-commerce Platform](https://github.com/srini-code-bytes/ecommerce-platform)  
+🌟 [E-commerce Platform](https://github.com/srini-code-bytes/ecommerce-platform-mern)  
 An end-to-end e-commerce application built using **MERN stack**.  
 
 ---
