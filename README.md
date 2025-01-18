@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Srinivaasan Swaminathan**, a passionate **Fu
 
 ### 📫 How to Reach Me  
 - **Email**: [srinivaasan_s@outlook.com](mailto:srinivaasan_s@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/srinivaasan-swaminathan](https://www.linkedin.com/in/srinivaasan-swaminathan/)  
+- **LinkedIn**: [linkedin.com/in/srinivaasan-swaminathan](https://www.linkedin.com/in/srinivaasan-s/)  
 
 ### ⚡ Fun Fact  
 I enjoy solving complex coding challenges and optimizing system performance to save milliseconds!  
