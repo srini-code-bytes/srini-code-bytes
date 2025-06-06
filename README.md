@@ -1,6 +1,6 @@
-## Hi there 👋  
+## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Srinivaasan Swaminathan**, a passionate **Full-Stack Developer** with over **6 years of IT experience**, including 4 years in software development and 2 years in business analysis.  
+I'm **Srinivaasan Swaminathan**, a passionate **Full-Stack Developer** with over **6 years of IT experience**, including 4 years in software development and 2 years in business analysis.  
 
 ### 🔭 What I Do  
 - **Build Scalable Applications**: Proficient in **Java**, **React**, **Spring Boot**, and **SQL**.  
