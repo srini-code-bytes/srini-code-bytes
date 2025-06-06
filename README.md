@@ -8,7 +8,7 @@ I'm **Srinivaasan Swaminathan**, a passionate **Full-Stack Developer** with over
 - **Frontend & Backend Development**: Experienced in building responsive UI and high-performance backend systems.  
 
 ### 🌱 What I’m Learning  
-- Preparing for **AWS Cloud Practitioner** Certification.  
+- Preparing for **AWS AI Practitioner** Certification.  
 - Exploring **Microservices Architecture** and **Kubernetes**.  
 
 ### 👯 Collaboration Interests  
